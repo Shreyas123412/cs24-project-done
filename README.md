@@ -1,1 +1,2 @@
-# cs24-project-done
+# Geologist
+Geologist Project
